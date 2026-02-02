@@ -55,15 +55,24 @@ Successfully completed **TRP 1 - MCP Setup Challenge**, demonstrating:
 ---
 MCP-Setup-Assessment/
 ├── .github/
+
 │   └── copilot-instructions.md    # Agent rules (200+ lines)
+
 ├── .vscode/
 │   └── mcp.json                   # MCP configuration
+
 ├── docs/
+
 │   ├── RESEARCH_NOTES.md          # Research sources
+
 │   ├── TESTING_EVIDENCE.md        # Before/after tests
+
 │   └── TROUBLESHOOTING_LOG.md    # Challenges resolved
+
 ├── ACTIVITY_REPORT.md             # Comprehensive activity report
+
 ├── README.md                      # Project README (this file)
+
 └── LICENSE                        # Project license
 
 
@@ -150,4 +159,5 @@ MCP-Setup-Assessment/
 **Repository**: [https://github.com/Bekamgenene/MCP-Setup-Assessment](https://github.com/Bekamgenene/MCP-Setup-Assessment)  
 **Visibility**: Public  
 **Submission Date**: February 2, 2026  
+
 
